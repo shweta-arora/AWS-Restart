@@ -2,3 +2,5 @@ This is my first file upload from my mac to Github online
 
 This is my second commit Tuesday lecture 
 
+This is my third commit
+My name is Tom
